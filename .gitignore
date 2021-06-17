@@ -1,6 +1,5 @@
 #Files that doesn't need
 *.exe
-*.md
 
 #Folders that doesn't need
 /.vscode
